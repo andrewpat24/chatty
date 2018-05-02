@@ -1,0 +1,1 @@
+## To run scripts 'npm run [command]'
